@@ -1,3 +1,3 @@
 # readme-test
 
-<div contenteditable>aaa</div>
+<div contenteditable="true">aaa</div>
